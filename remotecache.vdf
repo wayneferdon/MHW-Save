@@ -1,0 +1,75 @@
+"582010"
+{
+	"PhotoData01.dat"
+	{
+		"root"		"0"
+		"size"		"1583930"
+		"localtime"		"1586795750"
+		"time"		"1586795749"
+		"remotetime"		"1586795749"
+		"sha"		"425fab4fe863faa753b2bda553b224f040568b9c"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"PhotoData01.dat1"
+	{
+		"root"		"0"
+		"size"		"8852305"
+		"localtime"		"1581867165"
+		"time"		"1581867165"
+		"remotetime"		"1581867165"
+		"sha"		"ddb2aef07d0be9764dc924921742cb002031cf66"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"PhotoData01.dat2"
+	{
+		"root"		"0"
+		"size"		"2627371"
+		"localtime"		"1586626556"
+		"time"		"1586626556"
+		"remotetime"		"1586626556"
+		"sha"		"f8a8618a6095e02d72f68c37479dd37845be15f5"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"SAVEDATA1000"
+	{
+		"root"		"0"
+		"size"		"11284704"
+		"localtime"		"1587278635"
+		"time"		"1587278635"
+		"remotetime"		"1587278635"
+		"sha"		"28bb015db7d3141b7ce93aafd4ee1f4b8b3548d9"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"SAVEDATA_B"
+	{
+		"root"		"0"
+		"size"		"17104"
+		"localtime"		"1542866746"
+		"time"		"1542866747"
+		"remotetime"		"1542866747"
+		"sha"		"93a671a3b3ea79edb044993db7215f386787380e"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"slot00"
+	{
+		"root"		"0"
+		"size"		"0"
+		"localtime"		"0"
+		"time"		"0"
+		"remotetime"		"1540539347"
+		"sha"		"0000000000000000000000000000000000000000"
+		"syncstate"		"1"
+		"persiststate"		"2"
+		"platformstosync2"		"-1"
+	}
+}
